@@ -1,0 +1,16 @@
+{
+  "name": "docker-demo",
+  "version": "1.0.0",
+  "description": "记录docker使用",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
