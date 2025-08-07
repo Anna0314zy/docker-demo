@@ -4,7 +4,9 @@
   "description": "记录docker使用",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon app.js"
+    "dev": "nodemon app.js",
+    "start": "docker-compose up -d --build",
+    "clear": "docker-compose down -v"
   },
   "keywords": [],
   "author": "",

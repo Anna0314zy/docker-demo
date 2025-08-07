@@ -1,3 +1,7 @@
+## 如何启动项目 
+
+docker-compose up -d --build  
+
 
 记录docker使用
 
